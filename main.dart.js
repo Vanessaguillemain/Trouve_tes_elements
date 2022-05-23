@@ -66059,7 +66059,7 @@ h=A.ck(g,g,g,g,f.cx)
 return new A.Fo(new A.z1(g),"Trouve tes \xe9l\xe9ments",A.ag5(g,B.Z,A.a63(g,g,g,k,j,h,i,g,g,g,s,r,q,p,o,n,g,g,g,g,g,g,A.ck(g,g,g,g,f.db),m,l,g,g,g)),!1,g)}}
 A.q2.prototype={}
 A.Db.prototype={
-J(a,b){var s,r=null,q=A.Yq($.bH(),A.a0O(),t.s7),p=A.f4(r,r,r,new A.dC(r,A.af1(B.f7,new A.m_("icons/paillettes.jpg")),r,r,r,r,B.as),r,r,r,r),o=A.qs(r,10,r),n=q.dx,m=q.gaaL(),l=q.fr.length
+J(a,b){var s,r=null,q=A.Yq($.bH(),A.a0O(),t.s7),p=A.f4(r,r,r,new A.dC(r,A.af1(B.f7,new A.m_("assets/icons/paillettes.jpg")),r,r,r,r,B.as),r,r,r,r),o=A.qs(r,10,r),n=q.dx,m=q.gaaL(),l=q.fr.length
 if(n==null)n=$.apo()
 s=t.Ma
 return A.lu(B.bg,A.b([p,A.afS(!0,A.E9(A.b([new A.dY(B.m2,new A.GD(new A.RT(q),r),r),o,A.aju(new A.x0(n,new A.Gw(r),m,new A.a4C(new A.RU(q),l),r),1)],s),B.dL,B.br,B.cn),!0)],s),B.cD)}}
@@ -66186,7 +66186,7 @@ $0(){A.wM(this.a,!1).dd(0)},
 $S:4}
 A.lo.prototype={}
 A.Il.prototype={
-J(a,b){var s,r,q=null,p=A.f4(q,q,q,new A.dC(q,A.af1(B.f7,new A.m_("icons/paillettes.jpg")),q,q,q,q,B.as),q,new A.aF(0,10,0,0),new A.aF(10,10,10,10),q),o=t.A6,n=A.eR("Explosion de paillettes !! ",q,q,q,A.df(q,q,B.Z,q,q,q,q,q,q,q,q,30,q,B.af,q,q,!0,q,q,q,q,q,A.b([new A.cf(B.j,new A.m(5,5),3),new A.cf(B.b5,new A.m(5,5),8)],o),q,q),B.dp,q),m=this.c
+J(a,b){var s,r,q=null,p=A.f4(q,q,q,new A.dC(q,A.af1(B.f7,new A.m_("assets/icons/paillettes.jpg")),q,q,q,q,B.as),q,new A.aF(0,10,0,0),new A.aF(10,10,10,10),q),o=t.A6,n=A.eR("Explosion de paillettes !! ",q,q,q,A.df(q,q,B.Z,q,q,q,q,q,q,q,q,30,q,B.af,q,q,!0,q,q,q,q,q,A.b([new A.cf(B.j,new A.m(5,5),3),new A.cf(B.b5,new A.m(5,5),8)],o),q,q),B.dp,q),m=this.c
 if(!m.id)m.tS()
 if(!m.k1)m.uu()
 s="Tu es "+m.go[0].b+" et "
@@ -66198,7 +66198,7 @@ A.z1.prototype={
 aw(){return new A.Py(new A.bd(null,t.Jv),A.ag3(null),$.aei(),B.k)}}
 A.Py.prototype={
 n(a){this.be(0)},
-J(a,b){var s,r=null,q=A.f4(r,r,r,new A.dC(r,A.af1(B.f7,new A.m_("icons/paillettes.jpg")),r,r,r,r,B.as),r,r,r,r),p=t.A6,o=A.eR("R\xe9v\xe8le tes \xe9l\xe9ments !",r,r,r,A.df(r,r,B.Z,r,r,r,r,r,r,r,r,50,r,B.af,r,r,!0,r,r,r,r,r,A.b([new A.cf(A.aq(255,255,255,255),new A.m(5,5),3),new A.cf(A.aq(125,255,255,255),new A.m(5,5),8)],p),r,r),r,r),n=A.eR("Saisis ton adresse pour recevoir les r\xe9sultats du quizz :",r,r,r,A.df(r,r,B.Z,r,r,r,r,r,r,r,r,30,r,B.af,r,r,!0,r,r,r,r,r,A.b([new A.cf(B.j,new A.m(5,5),3),new A.cf(B.b5,new A.m(5,5),8)],p),r,r),r,r),m=A.df(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),l=A.aG(b).R.e
+J(a,b){var s,r=null,q=A.f4(r,r,r,new A.dC(r,A.af1(B.f7,new A.m_("assets/icons/paillettes.jpg")),r,r,r,r,B.as),r,r,r,r),p=t.A6,o=A.eR("R\xe9v\xe8le tes \xe9l\xe9ments !",r,r,r,A.df(r,r,B.Z,r,r,r,r,r,r,r,r,50,r,B.af,r,r,!0,r,r,r,r,r,A.b([new A.cf(A.aq(255,255,255,255),new A.m(5,5),3),new A.cf(A.aq(125,255,255,255),new A.m(5,5),8)],p),r,r),r,r),n=A.eR("Saisis ton adresse pour recevoir les r\xe9sultats du quizz :",r,r,r,A.df(r,r,B.Z,r,r,r,r,r,r,r,r,30,r,B.af,r,r,!0,r,r,r,r,r,A.b([new A.cf(B.j,new A.m(5,5),3),new A.cf(B.b5,new A.m(5,5),8)],p),r,r),r,r),m=A.df(r,r,B.j,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),l=A.aG(b).R.e
 l=l==null?r:l.dP(B.j)
 s=A.aG(b).R.z.dP(B.j)
 p=A.df(r,r,B.Z,r,r,r,r,r,r,r,r,20,r,B.af,r,r,!0,r,r,r,r,r,A.b([new A.cf(B.j,new A.m(5,5),3),new A.cf(B.b5,new A.m(5,5),8)],p),r,r)
